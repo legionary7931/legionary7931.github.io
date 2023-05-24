@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Cho JaeHyun
+tags: [education]
 ---
 ## 👍 Table of Contents
 - Where I studied from?

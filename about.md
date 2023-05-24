@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+### 👍 About
+ - 안녕하세요! 제 이름은 조재현입니다. 
+ - 저는 현재 성균관대학교 소프트웨어대학 3학년 재학 중이며, 현재 관심있는 분야는 프론트엔드/백엔드이며, 학기가 끝나면 인공지능을 공부하는 등 다양한 주제를 공부하려고 시도중입니다!
+ 
